@@ -1,0 +1,95 @@
+header {
+  height: 80px;
+  width: 100%;
+  display: inline-block;
+}
+
+.navlinks li {
+  display: inline-block;
+  margin: 0 15px;
+  line-height: 58px;
+  text-decoration: none;
+}
+
+a {
+  color: black;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.btn btn-primary {
+  text-decoration: none;
+  background-color: aqua;
+  color: white;
+  border: 1px solid aqua;
+}
+
+.navlinks {
+  justify-content: center;
+}
+
+h2 {
+  font-size: 70px;
+  font-weight: 900;
+}
+
+h2 {
+  font-size: 70px;
+  font-weight: 900;
+  width: 700px;
+  text-align: center;
+}
+
+.wrapper {
+  justify-content: center;
+  display: flex;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.touch {
+  color: black;
+  font-size: 25px;
+}
+
+.touch:hover {
+  color: rgb(113, 102, 102);
+}
+
+.p1 {
+  margin: 20px 0px;
+}
+
+.p2 {
+  margin: 70px 0px;
+}
+
+.p3 {
+  margin: 80px 0px;
+}
+
+.pictures {
+  height: 450px;
+  width: 300px;
+}
+
+.picdiv {
+  display: flex;
+}
+
+.comments {
+  color: white;
+}
+
+.tetx {
+  font-size: 35px;
+  font-weight: 900;
+}
+
+.fot {
+  font-size: 15px;
+  margin: 20px 0px;
+}
